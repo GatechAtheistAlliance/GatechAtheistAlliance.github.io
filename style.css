@@ -1,0 +1,68 @@
+a {
+    color: white;
+    text-decoration: none;
+}
+
+body {
+    background-color: orange;
+    font-family: helvetica, sans-serif;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+div{
+    text-align: center;
+    width: 100%;
+}
+
+dl {
+    display: block;
+}
+
+dd {
+    margin-bottom: 1em;
+}
+
+dt {
+    font-weight: bold;
+    margin-bottom: 0.5em;
+}
+
+h1 {
+    font-size: 28px;
+    color: teal;
+    text-align: center;
+}
+
+h2 {
+    color: mistyrose;
+    font-weight: normal;
+    text-align: center;
+}
+
+img {
+    border: 2px solid blue;
+    display: block;
+    margin: auto;
+    //width: 400px;
+    //height: 250px;
+}
+
+li {
+    font-size: 16px;
+    line-height: 2;
+}
+
+ol {
+    list-style-type: cjk-ideographic;
+}
+
+span {
+    background-color: lime;
+    border: solid black 2px;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}

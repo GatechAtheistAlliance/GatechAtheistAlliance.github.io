@@ -1,0 +1,45 @@
+a {
+    color: plum;
+    text-decoration: none;
+}
+
+body {
+    background-color: azure;
+    font-family: helvetica, sans-serif;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+dd {
+    line-height: 1.5;
+    margin-left: 25px;
+}
+
+h1 {
+    font-family: "Apple Chancery", cursive;
+    font-size: 36px;
+    line-height: 0.5;
+    text-align: center;
+}
+
+h2 {
+    font-size: 18px;
+    color: maroon;
+    text-decoration: normal;
+}
+
+li {
+    list-style: disc outside none;
+}
+
+p {
+    line-height: 0.5;
+}
+
+span {
+    width: 100em;
+}
+
+ul {
+    list-style: square outside none;
+}
